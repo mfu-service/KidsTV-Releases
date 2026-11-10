@@ -2,14 +2,14 @@
 
 This repository publishes **installable APKs only**. Source code is **not** included.
 
-## Direct download links (v1.0.0)
+## Direct download links (v1.0.1)
 
 Use these URLs in any browser or download manager (IDM, ADM, Download Manager…):
 
 | App | Direct APK link |
 |-----|-----------------|
-| **Android TV** | https://github.com/mfu-service/KidsTV-Releases/releases/download/v1.0.0/KidsTV-tv-v1.0.0.apk |
-| **Parent phone** | https://github.com/mfu-service/KidsTV-Releases/releases/download/v1.0.0/KidsTV-parent-v1.0.0.apk |
+| **Android TV** | https://github.com/mfu-service/KidsTV-Releases/releases/download/v1.0.1/KidsTV-tv-v1.0.1.apk |
+| **Parent phone** | https://github.com/mfu-service/KidsTV-Releases/releases/download/v1.0.1/KidsTV-parent-v1.0.1.apk |
 
 ## Releases page
 
